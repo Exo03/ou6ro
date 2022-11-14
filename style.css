@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: darkgreen;
+    font-size: 80px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url('фон космос.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    text-align: center;
+    font-size: 60px;
+}
+.title{
+    color: rgb(255, 255, 255);
+}
+
+.kotik{
+    width: 500px;
+    height: 400px;
+    margin-left: 650px;
+}
+.btn{
+    border: 1px solid black;
+    padding: 10px;
+    color: blueviolet;
+    background-color: aqua;
+    text-decoration: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 630px;
+    left: 860px;
+}
